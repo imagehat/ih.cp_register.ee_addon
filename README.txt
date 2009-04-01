@@ -11,7 +11,7 @@ The welcome email template is customizable in the extension
 settings - allowing you to add the following variables:
 
 {screen_name}
-{username   
+{username}
 {email}      
 {password}   
 {site_name}	 
